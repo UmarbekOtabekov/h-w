@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+}
+
+@theme {
+  --color-kok: #2B7BC6;
+  --color-toq-kok: #004C93;
+  --color-osmon: #E1EEFB;
+  --color-och: #1061AB;
+  --color-white: #FBFAF9;
+  --color-och-osmon: #F1F8FF;
+  --color-sariq: #FFD600;
+  --color-yashil: #3BB9B8
+}
